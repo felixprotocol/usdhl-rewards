@@ -1,0 +1,9 @@
+# USDHL Rewards Distributions
+
+This repository contains USDHL reward distribution data in CSV format.
+
+## Distribution Status
+
+| Epoch | Distribution File                                                  | Status    |
+| :---- | :----------------------------------------------------------------- | :-------- |
+| 1     | [Epoch 1 Rewards](./distributions/usdhl-rewards-epoch-1.csv) | In Review |

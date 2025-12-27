@@ -14,4 +14,4 @@ This repository contains USDHL reward distribution data in CSV format.
 | 6     | [Epoch 6 Rewards](./distributions/usdhl-rewards-epoch-6.csv) | Distributed |
 | 7     | [Epoch 7 Rewards](./distributions/usdhl-rewards-epoch-7.csv) | Distributed |
 | 8     | [Epoch 8 Rewards](./distributions/usdhl-rewards-epoch-8.csv) | Distributed |
-
+| 9     | [Epoch 9 Rewards](./distributions/usdhl-rewards-epoch-9.csv) | Distributed |
